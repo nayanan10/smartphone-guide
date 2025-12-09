@@ -13,6 +13,7 @@ A smartphone is a device that lets you:
 - Install and use apps
 - Take photos & videos
 
+![Home Screen of the Smartphone](images/home-screen.png)
 ---
 
 ## 🔋 2. Turning On the Phone
@@ -36,6 +37,8 @@ You can protect your phone using:
 ---
 
 ## 🌐 4. Connecting to the Internet
+
+![Image showing the wifi and mobile data icon](images/wifi-data-settings.webp)
 
 To use apps, browse websites, or watch videos, your smartphone needs an internet connection.
 
@@ -80,6 +83,8 @@ Search → Tap **Install**.
 
 - Explore settings  
 - Try the camera  
+![The Camera app view](images/camera-view.webp)
+
 - Download basic apps
 
 ---
